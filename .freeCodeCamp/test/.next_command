@@ -107,3 +107,4 @@ chmod +x countdown.sh
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 echo $*
+./countdown.sh
