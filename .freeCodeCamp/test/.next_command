@@ -157,3 +157,4 @@ help
 [[ $1 -gt 0 ]]
 ./countdown.sh $10
 help
+ls --color=auto /
