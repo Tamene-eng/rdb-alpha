@@ -290,3 +290,8 @@ chmod +x countdown.sh
 touch bingo.sh
 chmod +x bingo.sh
 __vsc_prompt_cmd_original
+/bin/bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
