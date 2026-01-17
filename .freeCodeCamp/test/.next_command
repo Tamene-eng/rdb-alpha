@@ -111,3 +111,4 @@ echo $*
 ./countdown.sh arg1 arg2 arg3
 echo $2
 echo $1
+./countdown.sh arg1 arg2 arg3
