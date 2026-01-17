@@ -144,3 +144,4 @@ bad_command
 ls --color=auto -y
 help test
 [[ -a countdown.sh ]]
+[[ -a bad_file.txt ]]
