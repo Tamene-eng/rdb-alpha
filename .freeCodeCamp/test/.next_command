@@ -284,3 +284,7 @@ ls --color=auto
 git push
 [[ $I -ge 0 ]]
 ,/countdown.sh
+chmod +x countdown.sh
+./countdown.sh
+[[ $I -ge 0 ]]
+touch bingo.sh
