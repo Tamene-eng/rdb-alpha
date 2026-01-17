@@ -101,3 +101,4 @@ man echo
 echo -e "\n~~ Questionnaire ~~\n"
 ./questionnaire.sh
 read WEBSITE
+./questionnaire.sh
