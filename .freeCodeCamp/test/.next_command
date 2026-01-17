@@ -99,3 +99,4 @@ echo Hello $NAME from $LOCATION
 echo --help
 man echo
 echo -e "\n~~ Questionnaire ~~\n"
+./questionnaire.sh
