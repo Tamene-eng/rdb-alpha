@@ -288,3 +288,4 @@ chmod +x countdown.sh
 ./countdown.sh
 [[ $I -ge 0 ]]
 touch bingo.sh
+chmod +x bingo.sh
