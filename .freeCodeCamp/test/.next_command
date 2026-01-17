@@ -97,3 +97,4 @@ Hello $Name from $Location
 echo Hello $NAME from $LOCATION
 ./questionnaire.sh
 echo --help
+man echo
