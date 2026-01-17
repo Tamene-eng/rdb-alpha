@@ -120,3 +120,4 @@ help if
 ./countdown.sh arg2
 [[ $1 == arg1 ]]
 ./countdown.sh arg3
+[[ $1 -lt 5 ]]
