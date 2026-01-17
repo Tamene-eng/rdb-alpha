@@ -154,3 +154,4 @@ help [[ expression ]]
 ./countdown.sh $1
 ./countdown.sh $6
 help
+[[ $1 -gt 0 ]]
