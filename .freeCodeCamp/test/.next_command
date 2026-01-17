@@ -302,3 +302,27 @@ git status
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "progress checkpoint"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git push
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+cd ~/project
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+pwd
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add origin https://github.com/Tamene-eng/rdb-alpha.git
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
