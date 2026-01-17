@@ -298,3 +298,7 @@ history -a
 echo -e "\n~~ Bingo Number Generator ~~\n"
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+git status
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
