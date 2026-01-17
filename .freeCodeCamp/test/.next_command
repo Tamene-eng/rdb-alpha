@@ -116,3 +116,4 @@ help
 man if
 help if
 [[ $1 == arg1 ]]
+./countdown.sh arg1
