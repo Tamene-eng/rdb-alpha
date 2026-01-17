@@ -93,3 +93,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 wc -l /workspace/project/questionnaire.sh
 cat /workspace/project/questionnaire.sh
 hexdump -C /workspace/project/questionnaire.sh
+Hello $Name from $Location
+echo Hello $NAME from $LOCATION
