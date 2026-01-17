@@ -123,3 +123,4 @@ help if
 [[ $1 -lt 5 ]]
 ./countdown.sh 4
 ./countdown.sh 5
+help
