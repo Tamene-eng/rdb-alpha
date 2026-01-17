@@ -289,3 +289,4 @@ chmod +x countdown.sh
 [[ $I -ge 0 ]]
 touch bingo.sh
 chmod +x bingo.sh
+__vsc_prompt_cmd_original
