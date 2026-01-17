@@ -326,3 +326,24 @@ git remote -v
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "Initial commit of rdb-alpha project"
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git push -u origin main
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git branch
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git push -u origin master
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git branch
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add origin https://github.com/Tamene-eng/rdb-alpha.git
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
